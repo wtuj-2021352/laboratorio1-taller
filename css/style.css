@@ -1,0 +1,53 @@
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#pasatiempo-body {
+    background-image: url('https://images.pexels.com/photos/13043589/pexels-photo-13043589.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+    background-size: cover;
+    font-family: 'Century Gothic', sans-serif;
+}
+
+.img-bio {
+    width: 200px;
+}
+
+.box {
+    width: 500px;
+    background: rgba(0, 0, 0, .4);
+    margin: 0 auto;
+    margin-top: 4%;
+    padding: 20px;
+    color: white;
+    text-align: center;
+    border-radius: 15px;
+}
+
+.img-bio {
+    border-radius: 25%;
+}
+
+.box h1 {
+    font-size: 40px;
+    letter-spacing: 4px;
+    font-weight: 100px;
+    margin: 20px 0 20px;
+}
+
+.box p {
+    text-align: justify;
+}
+
+.box ul li a {
+    color: white;
+    display: block;
+    border-radius: 15px;
+    background-color: #C37370;
+    margin: 20px 150px;
+    padding: 15px 30px;
+    text-decoration: none;
+}
